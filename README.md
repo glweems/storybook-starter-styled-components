@@ -9,9 +9,11 @@
   </a>
 </p>
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/03e1dc41-58f5-4a80-bdc4-854b736417e4/deploy-status)](https://app.netlify.com/sites/storybook-starter-styled/deploys)
+
 > Storybook starting point utilizing React.js, Styled Components, and darkmode functionality
 
-### 🏠 [Homepage](https://github.com/glweems/storybook-starter-styled-components#readme)
+### 🏠 [Homepage](https://storybook-starter-styled.netlify.com)
 
 ## Install
 
